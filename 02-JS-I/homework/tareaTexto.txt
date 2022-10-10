@@ -1,0 +1,9 @@
+Conceptos
+Variables: es la forma en la que podemos almacenar un valor de algo para poder usar en otro momento
+Strings: es un tipo de dato, en bloque de texto definidos entre comillas.
+Funciones: las funciones son lo que queremos ejecutar
+"Argumentos": son variables que definimos dentro de una función
+"Return": nos sirve para cuando queremos que nuestra funcion nos devuelva algo. 
+Declaraciones "if": es para cuando queremos verificar si una expresión es TRUE
+Valores Booleanos: 
+"true" y "false": sirven para verificar datos. 
